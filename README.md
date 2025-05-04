@@ -7,7 +7,7 @@
 ## 📋 Project Overview
 Comprehensive analysis of ABC Company's employee dataset (458 records) covering:
 - Team distribution across departments
-- Salary expenditure by position
+- Salary expenditure by position and Team
 - Age vs. salary correlations
 - Key demographic insights
 
